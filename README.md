@@ -11,7 +11,6 @@ The `presentations` folder contains slide decks used for the [Introduction](), m
 | Total Eclipse of the Excel Chart - A reflection on 12 years of teaching modelling and data science in the NHS | Dr Dan Chalk | [Slides](https://github.com/nhs-r-community/RPySOC2025_presentations/blob/main/presentations/2025-11-13_chalk_excel_chart.pptx) |
 | Beautifully reproducible dataviz: lessons learnt from building data-to-viz pipelines | Cara Thompson | [Slides](https://cararthompson.github.io/beautifully-reproducible-dataviz/slides/beautifully-reproducible) |
 | Using open data and open source code to create an open elective waiting lists modelling tool (RTT Planner) | Sebastian Fox |  |
-| Using APIs in R to obtain Health indicators for interactive visualizations | Pablo Leon-Rodenas | [Slides](https://github.com/nhs-r-community/RPySOC2025_presentations/blob/main/presentations/2025-11-13_leon-rodenas.md) |
 | opencodecounts: An R package and Shiny app exploring NHS clinical coding data | Milan Wiedemann | [Slides](https://github.com/nhs-r-community/RPySOC2025_presentations/blob/main/presentations/2025-11-13_wiedemann.pdf)  |
 | DES-igning Better Flow: Modelling Non-Elective Admissions | Helena Robinson | |
 | Mapping Accessibility: Using R5py and GTFS Data to Optimise Women’s Health Hub Locations in the Sussex | Karrie Liu | |
@@ -26,7 +25,7 @@ The `presentations` folder contains slide decks used for the [Introduction](), m
 | Deploying Python in production: containers, kubernetes and embracing yaml | Amadeus Stevenson | [Slides](https://amadeuspzs.github.io/nhs-rpysoc-2025-deploy-python/) |
 | Modelling Community waiting lists with NHS-R waiting list library | Simon Wellesley-Miller |  |
 | Transforming Health Needs Assessments: Reproducible Insights for Smarter NHS Planning | Rachel Christie |  |
-| Building QA into everyday workflows with GitHub | Rhian Davies | [Slides](https://github.com/nhs-r-community/RPySOC2025_presentations/blob/main/presentations/2025-11-13_davies_qa.md) |
+| Using APIs in R to obtain Health indicators for interactive visualizations | Pablo Leon-Rodenas | [Slides](https://github.com/nhs-r-community/RPySOC2025_presentations/blob/main/presentations/2025-11-13_leon-rodenas.md) |
 | The story of patientflow: from hospital prototype to Python package | Zella King |  |
 | Going for Gold: Adopting RAP-by-default to Create Analysts from Nowhere | Joe Wilson |  |
 | Zhuzhing custom error messages with {cli} | Fran Barton | [Slides](https://the-strategy-unit.github.io/data_science/presentations/2025-11-13_error_messages_with_cli/) |
@@ -56,3 +55,4 @@ The `presentations` folder contains slide decks used for the [Introduction](), m
 | Introduction to Causal Inference for R and Python users | Nathan Thomas | [Slides](https://github.com/nhs-r-community/RPySOC2025_presentations/blob/main/presentations/2025-11-14_jemmett.md)  |
 | Publishing reproducible websites using R Quarto: Camden’s JSNA Hub | Annie Yu |  |
 | What Patients Ask: Harnessing Free-Text Data for Patient-Centred Care | Mimi Reyburn |  |
+| Building QA into everyday workflows with GitHub | Rhian Davies | [Slides](https://github.com/nhs-r-community/RPySOC2025_presentations/blob/main/presentations/2025-11-13_davies_qa.md) |
